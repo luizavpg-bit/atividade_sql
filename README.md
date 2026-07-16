@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Status-Concluído-ff85c1?style=for-the-badge">
 </p>
 
-<h1 align="center">🌸 Atividade – MySQL 🌸</h1>
+<h1 align="center"> Atividade – MySQL </h1>
 <h3 align="center">Banco de Dados Relacional</h3>
 
 <p align="center">
@@ -12,8 +12,6 @@
 </p>
 
 ---
-
-### 🌸 . · ° . · ° . · ° . · ° . · ° . · ° . · ° . · ° . · ° . · ° . 🌸
 
 ## 🌸 Sobre este repositório
 
@@ -49,11 +47,7 @@ Este repositório reúne a resolução de **3 atividades práticas** envolvendo 
 - `SELECT` de colaboradores com salário **menor** que 2000
 - `UPDATE` de um registro específico
 
-📄 Arquivo: [`exe01.sql`](./exe01.sql)
 
-<p align="center">
-  <img src="LINK_DO_PRINT_1" width="500">
-</p>
 
 ---
 
@@ -66,11 +60,8 @@ Este repositório reúne a resolução de **3 atividades práticas** envolvendo 
 - `SELECT` de produtos com valor **menor** que 500
 - `UPDATE` de um registro específico
 
-📄 Arquivo: [`exe02.sql`](./exe02.sql)
 
-<p align="center">
-  <img src="LINK_DO_PRINT_2" width="500">
-</p>
+
 
 ---
 
@@ -83,21 +74,23 @@ Este repositório reúne a resolução de **3 atividades práticas** envolvendo 
 - `SELECT` de estudantes com nota **menor** que 7.0
 - `UPDATE` de um registro específico
 
-📄 Arquivo: [`exe03.sql`](./exe03.sql)
 
 <p align="center">
-  <img src="LINK_DO_PRINT_3" width="500">
+
 </p>
 
 ---
-
 ## 🌸 Como executar
+
+<img align="right" width="250" src="https://github.com/user-attachments/assets/a3db2d7e-d736-46de-bd49-0629a5b64397">
 
 1. Abra o **MySQL**
 2. Abra o arquivo `.sql` desejado
 3. Selecione tudo (`Ctrl + A`)
 4. Execute tudo de uma vez (`Ctrl + Shift + Enter`)
 
-## 🌸 Autoria
+<br clear="right">
 
-Luiza Paolinelli
+## 🌸 
+
+## <mark style="background-color: #FFF59D;">Autoria Luiza Paolinelli</mark>
